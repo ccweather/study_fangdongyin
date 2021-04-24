@@ -1,0 +1,6 @@
+
+.city{
+	width: 100%;
+	background-color: #111;
+}
+

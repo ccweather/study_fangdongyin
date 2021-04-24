@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "change-list": "/components/changeList"
+  },
+  "component": true
+}

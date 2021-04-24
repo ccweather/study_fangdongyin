@@ -1,0 +1,1 @@
+<view class="city"><view><change-header vue-id="c4019d40-1" bind:__l="__l"></change-header></view><view><change-list vue-id="c4019d40-2" bind:__l="__l"></change-list></view></view>

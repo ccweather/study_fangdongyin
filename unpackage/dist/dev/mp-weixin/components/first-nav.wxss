@@ -1,0 +1,34 @@
+
+.firstNav{
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	color: #fff;
+	z-index: 9;
+}
+.nav-left{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	text-align: center;
+}
+.nav-left-title{
+	margin: 0 8px;
+	font-size: 17px;
+}
+.nav-right{
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 15%;
+	color: #fff;
+	text-align: center;
+	font-size: 20px;
+}
+

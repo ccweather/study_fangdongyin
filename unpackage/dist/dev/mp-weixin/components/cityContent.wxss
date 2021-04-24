@@ -1,0 +1,50 @@
+
+.cityContent.data-v-58c2c7a3{
+	width: 100%;
+	color: #fff;
+	overflow: hidden;
+}
+.conlation.data-v-58c2c7a3{
+	width: 100%;
+	height: 40px;
+	margin-top: 50px;
+	overflow: hidden;
+}
+.conlation-left.data-v-58c2c7a3{
+	float: left;
+	margin-left: 15px;
+}
+.conlation-right.data-v-58c2c7a3{
+	float: right;
+	margin-right: 15px;
+}
+.conlation-right text.data-v-58c2c7a3{
+	font-size: 14px;
+}
+.video-list.data-v-58c2c7a3{
+	width: 100%;
+	overflow: hidden;
+	background-color: #000;
+}
+.item.data-v-58c2c7a3{
+	width: 50%;
+	height: 300px;
+	float: left;
+	position: relative;
+	margin-top: 10px;
+}
+.item video.data-v-58c2c7a3{
+	width: 92%;
+	height: 300px;
+	margin-left: 4%;
+}
+.item image.data-v-58c2c7a3{
+	position: absolute;
+	bottom: 10px;
+	right: 15px;
+	width: 30px;
+	height: 30px;
+	-webkit-border-radius: 50%;
+	        border-radius: 50%;
+}
+

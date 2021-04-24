@@ -1,0 +1,1 @@
+<view class="tab"><view class="tab-box">首页</view><view class="tab-box">朋友</view><view class="tab-box"><view class="iconfont icon-jiahao1 icon-box"></view></view><view class="tab-box">消息</view><view data-event-opts="{{[['tap',[['click',['$event']]]]]}}" class="tab-box" bindtap="__e">我的</view></view>
